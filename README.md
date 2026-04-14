@@ -1,18 +1,1 @@
 # spapi-telegram-msheet-mvp
-
-We need this env variables for this application 
-# AMAZON
-LWA_CLIENT_ID=xxx
-LWA_CLIENT_SECRET=xxx
-LWA_REFRESH_TOKEN=xxx
-AWS_ACCESS_KEY=xxx
-AWS_SECRET_KEY=xxx
-REGION=eu-west-1
-MARKETPLACE_ID=A21TJRUUN4KGV
-
-# GOOGLE
-GOOGLE_SHEET_ID=xxx
-
-# TELEGRAM
-TELEGRAM_BOT_TOKEN=xxx
-TELEGRAM_CHAT_ID=xxx
